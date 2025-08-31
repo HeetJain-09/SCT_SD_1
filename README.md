@@ -2,16 +2,15 @@
 Repository containing software development TASk 1
 
 ----------------------------------
+ ## Task 01: Temperature Converter
+This is a simple Python program that converts temperature values between Kelvin (K), Celsius (C), and Fahrenheit (F). It prompts the user to enter a temperature and select the units to convert from and to. The program performs the necessary calculation and returns the converted value.
 
-## Task 01: Temperature Converter
 
-A simple Python program that converts temperature values between Kelvin (K), Celsius (C), and Fahrenheit (F). The program prompts the user to enter a temperature and select the units to convert from and to. It performs the necessary calculation and returns the converted value
 ----------------------------------
-
 ## SkillCraft Technology Internship Task
 
 This project was developed as part of my Software Development Internship at SkillCraft Technology. It helped improve my Python programming skills and problem-solving abilities by creating a real-world utility tool.
-----------------------------------
+
 
 ----------------------------------
 ## Features
