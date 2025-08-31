@@ -36,8 +36,7 @@ A simple Python program to convert temperatures between Celsius, Fahrenheit, and
 5. Fahrenheit to Kelvin
 
 6. Kelvin to Fahrenheit
------------------------
-Output:
+------------------------
 Select a conversion (1-6): 1
 
 Enter temperature in Celsius: 25
