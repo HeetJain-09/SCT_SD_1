@@ -45,6 +45,9 @@ Temperature Conversion Program
 4. Kelvin to Celsius
 5. Fahrenheit to Kelvin
 6. Kelvin to Fahrenheit
+   
 Select a conversion (1-6): 1
+
 Enter temperature in Celsius: 25
+
 25.0 °C = 77.0 °F
